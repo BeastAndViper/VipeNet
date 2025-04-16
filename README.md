@@ -38,7 +38,7 @@ Because this tool interacts with sockets, threads, and network stuff, Defender m
 - Or exclude the folder from Defender scans via:
   `Virus & threat protection > Manage settings > Add or remove exclusions`
 
-✅ It’s safe. It just hits too hard for Microsoft to trust 😈
+✅ It’s safe. It just hits too hard for Microsoft to trust 
 
 ---
 
