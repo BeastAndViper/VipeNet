@@ -2,7 +2,7 @@
 
 Fully compiled `.exe` flood tool for Windows. Built to flex, stress, and test — no Python install needed.
 
-![badge](https://img.shields.io/badge/status-ready-green) ![badge](https://img.shields.io/badge/build-exe-blue) ![badge](https://img.shields.io/badge/purpose-educational-yellow)
+![badge](https://img.shields.io/badge/status-ready-green) ![badge](https://img.shields.io/badge/build-zip-blue) ![badge](https://img.shields.io/badge/purpose-educational-yellow)
 
 ---
 
