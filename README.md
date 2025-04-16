@@ -1,4 +1,4 @@
-# ⚔️ VipeNet — Stay Dangerous 🔥
+# ⚔️ VipeNet — For you skids 🔥
 
 A fully compiled `.exe` flood tool packed into a clean ZIP.  
 Built to flex, stress, and test — no Python needed, just extract and run.
