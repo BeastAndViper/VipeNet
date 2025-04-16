@@ -1,37 +1,40 @@
 # ⚔️ VipeNet — Stay Dangerous 🔥
 
-Fully compiled `.exe` flood tool for Windows. Built to flex, stress, and test — no Python install needed.
+A fully compiled `.exe` flood tool packed into a clean ZIP.  
+Built to flex, stress, and test — no Python needed, just extract and run.
 
-![badge](https://img.shields.io/badge/status-ready-green) ![badge](https://img.shields.io/badge/build-zip-blue) ![badge](https://img.shields.io/badge/purpose-educational-yellow)
+![badge](https://img.shields.io/badge/status-ready-green) ![badge](https://img.shields.io/badge/build-exe-blue) ![badge](https://img.shields.io/badge/purpose-educational-yellow)
 
 ---
 
 ### 💣 Features:
-- ✅ UDP / TCP / ICMP / Random Port / Spoofed flood modes  
-- 🧠 Smart ping test before blast  
-- 🧵 Multi-threaded (1000+ supported)  
-- 🔥 Real-time PPS & Total Sent tracker  
-- 🪄 Terminal startup animation + clean UI  
-- 🧿 Custom icon on the executable
+- ✅ Modes: UDP / TCP / ICMP / Random Ports / Spoofed  
+- 🧠 Ping test before launching flood  
+- 🧵 Multithreaded (1000+ supported)  
+- 🔥 Real-time PPS + packet count tracker  
+- 🪄 Startup animation + clean UI  
+- 🧿 Custom icon already applied to the `.exe`
 
 ---
 
 ### 📦 How to Use:
-1. Download the compiled [`VipeNet.exe`](#) from the [Releases](#) tab  
-2. Run as **Administrator**  
-3. Enter your target IP, mode, packet size, and thread count  
-4. Watch the flood begin
+1. [Download `VipeNet.zip`](./VipeNet.zip)
+2. **Extract it** to a folder (don’t run it from inside the zip)
+3. Run `VipeNet.exe` as **Administrator**
+4. Enter target IP, port, mode, and threads
+5. 🔥 Watch the network melt
 
 ---
 
 ### ⚠️ Disclaimer
 This tool is for **educational purposes and authorized testing** only.  
-You are responsible for what you do with it.  
-Use on your own networks or with **explicit permission**.
+Use it only on your own network or with clear permission.  
+**You're responsible** for how it’s used.
 
 ---
 
 ### 👑 Credits
-Built by [BeastAndViper](https://github.com/BeastAndViper)  
-Script powered by Python 3.10 + PyInstaller
+Coded by [BeastAndViper](https://github.com/BeastAndViper)  
+Built with Python 3.10 + PyInstaller  
+Icon + execution: handled.
 
