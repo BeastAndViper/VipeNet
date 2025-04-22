@@ -7,7 +7,7 @@ Built to flex, stress, and test — no Python needed, just extract and run.
 ![badge](https://img.shields.io/badge/build-exe-blue)
 ![badge](https://img.shields.io/badge/purpose-educational-yellow)
 
----
+--- Really its a DoS Tool so mb i got too carried away
 
 ### 💣 Features:
 - ✅ Modes: UDP / TCP / ICMP / Random Ports / Spoofed  
